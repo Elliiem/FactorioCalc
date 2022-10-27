@@ -1,0 +1,4 @@
+help-CraftingTime-Qnt-CraftedIn-Recipie/s
+Iron_Plate-3.2-1-Furnace-0-
+Copper_Plate-3.2-1-Furnace-0-
+Iron_Test-6-1-Assembler-Iron_Plate*0.333*Copper_Plate*0.333-
